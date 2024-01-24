@@ -1,0 +1,28 @@
+
+.redesContainer h3{
+    display: flex;
+    margin-top: 25px;
+    padding-bottom: 10px;
+    font-size: 28px;
+}
+
+.redesContainer a{
+    display: flex;
+    font-size: 36px;
+    font-weight: 300;
+    margin-top: 5px;
+    padding-left: 14px;
+    text-decoration: none;
+    color: darkblue;
+}
+
+.redesContainer img{
+    display: flex;
+    width: 73px;
+    height: 73px;
+}
+
+.flex{
+    display: flex;
+    
+}

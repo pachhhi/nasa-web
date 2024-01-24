@@ -1,0 +1,15 @@
+aside{
+    display: flex;
+}
+
+button{
+    border: none;
+    background-color: white;
+    padding-top: 15px;
+    font-weight: 500;
+}
+
+button:focus{
+    text-decoration: underline 0.5em;  
+}
+
